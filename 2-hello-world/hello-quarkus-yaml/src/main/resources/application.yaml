@@ -1,0 +1,13 @@
+quarkus:
+  banner:
+    enabled: false
+
+"%dev":
+  ola:
+    mensagem: Ola
+    nome: Mundo
+
+"%test":
+  ola: 
+    mensagem: Hello
+    nome: World
